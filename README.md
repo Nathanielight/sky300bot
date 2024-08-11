@@ -1,4 +1,4 @@
-# Skye 300K Challenge Telegram Bot
+# Skysport telegram channel 300K Challenge Telegram Bot
 
 This bot is designed to manage a referral system for the Skye 300K Challenge Telegram channel. It allows users to generate referral links, track their referral counts, and view the leaderboard.
 
