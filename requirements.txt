@@ -20,7 +20,7 @@ protobuf==4.25.3
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
 pyparsing==3.1.2
-python-telegram-bot==13.13
+python-telegram-bot
 pytz==2024.1
 requests==2.31.0
 requests-oauthlib==2.0.0
@@ -32,3 +32,4 @@ tzdata==2024.1
 tzlocal==5.2
 uritemplate==4.1.1
 urllib3==1.26.5
+dotenv
